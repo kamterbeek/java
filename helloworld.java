@@ -27,7 +27,7 @@ public class HelloWorld {
         int number = 5;
         System.out.println("The number is: " + number);
 
-        if (number > 3) {
+        
            
             
             
