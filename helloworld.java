@@ -28,6 +28,7 @@ public class HelloWorld {
         System.out.println("The number is: " + number);
 
         if (number > 3) {
-            System.out.println(
+            System.out.println("The number is  greater than 3.");
+            
             
     
