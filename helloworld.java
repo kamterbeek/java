@@ -25,5 +25,7 @@ public class HelloWorld {
         System.out.println("Hello, Java world!");
 
         int number = 5;
-        System.out.println("The number is: "
+        System.out.println("The number is: " + number);
+
+        
     
