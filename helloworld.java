@@ -24,7 +24,6 @@ public class HelloWorld {
 
         System.out.println("Hello, Java world!");
 
-        int number =
             
             
     
